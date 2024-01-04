@@ -3,7 +3,7 @@
 grade = float(input("Enter your grade:"))
 
 if grade >= 90:
-    print("A, you're excellent job!")
+    print("A, you're gonna be somebody! excellent job!")
 
 elif grade >= 80:
     print("B, not bad you're smarter than average!")
