@@ -14,5 +14,5 @@ elif grade >= 70:
 elif grade >= 60:
     print("D, jesus do better. God speed my friend!")
 
-elif grade <= 59:
+else grade <= 59:
     print("F, get the f out")
