@@ -17,7 +17,7 @@ def main():
         # If the var name has a value
         #if num is one of the keys in the dict words
             # Hi! Welcome to Day 2 of Python Training!
-            print("Hi " + name.capitalize + "! Have a " + words[num] + " day!")
+            print("Hi " + name.capitalize() + "! Have a " + words[num] + " day!")
             break
         else:
             print("Come on, follow directions. Try again.")
