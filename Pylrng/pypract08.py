@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#Filtering output
+
 import csv
 import json
 from pprint import pprint
